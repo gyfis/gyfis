@@ -2,7 +2,7 @@
 <b>Hi, I'm Tomas!</b>
 
 I'm proudly building products at <a href="https://betterstack.com"><img src="https://github.com/gyfis/gyfis/assets/1632140/a578e5d3-7bf2-421d-b497-c2ede81c2a43" alt="betterstack" width="20" /> Better Stack
-</a>using Ruby on Rails, VanillaJS, Rust, and more.
+</a>using Ruby on Rails, VanillaJS, and more.
 
           ..............................
      ........................................
